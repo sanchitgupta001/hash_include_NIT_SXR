@@ -6,4 +6,4 @@ analyise various algorithms.Algos and programming tips and tricks are  being tau
 This is to build a programming environment,a coding habit among the students in the college.
 sample codes and study material will be availabe in this repository.More stuff will be added as the club proceeds.
 
-Coding is fun!
+Coding is fun! :)
